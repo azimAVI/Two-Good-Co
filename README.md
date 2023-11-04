@@ -1,6 +1,7 @@
 # Two-Good-Co
 
 ## 👉 You can go through my project: 
+ - Link: https://azimavi.github.io/Two-Good-Co/
 
 ## Tools used:
   - Locomotive js - scroll, GitHub DOC URL: https://github.com/locomotivemtl/locomotive-scroll/blob/master/README.md
